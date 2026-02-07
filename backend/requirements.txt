@@ -1,0 +1,6 @@
+Flask
+FastAPI
+pandas
+scikit-learn
+joblib
+# Add other necessary dependencies here
